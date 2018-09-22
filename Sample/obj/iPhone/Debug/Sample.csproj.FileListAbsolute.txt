@@ -1,0 +1,17 @@
+C:\Users\Yigit\source\repos\Sample\Sample\bin\iPhone\Debug\Sample.exe
+C:\Users\Yigit\source\repos\Sample\Sample\bin\iPhone\Debug\Sample.pdb
+C:\Users\Yigit\source\repos\Sample\Sample\bin\iPhone\Debug\Microsoft.AppCenter.dll
+C:\Users\Yigit\source\repos\Sample\Sample\bin\iPhone\Debug\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\Yigit\source\repos\Sample\Sample\bin\iPhone\Debug\Microsoft.AppCenter.Push.dll
+C:\Users\Yigit\source\repos\Sample\Sample\bin\iPhone\Debug\Microsoft.AppCenter.Push.iOS.Bindings.dll
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\optimized\
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\Sample.csprojAssemblyReference.cache
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\Sample.csproj.CopyComplete
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\Sample.exe
+C:\Users\Yigit\source\repos\Sample\Sample\obj\iPhone\Debug\Sample.pdb
